@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mcdrums/static/css/main.0a6a232d.css",
+    "main.js": "/mcdrums/static/js/main.bab29c71.js",
+    "static/js/787.650fe217.chunk.js": "/mcdrums/static/js/787.650fe217.chunk.js",
+    "index.html": "/mcdrums/index.html",
+    "main.0a6a232d.css.map": "/mcdrums/static/css/main.0a6a232d.css.map",
+    "main.bab29c71.js.map": "/mcdrums/static/js/main.bab29c71.js.map",
+    "787.650fe217.chunk.js.map": "/mcdrums/static/js/787.650fe217.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a6a232d.css",
+    "static/js/main.bab29c71.js"
+  ]
+}
